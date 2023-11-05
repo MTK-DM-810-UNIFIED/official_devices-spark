@@ -1,21 +1,21 @@
 {
     "maintainer": [
         {
-            "display_name": "sayann70",
-            "telegram": "https://t.me/sayann70",
-            "github": "https://github.com/sayann70"
+            "display_name": "Jax Sue",
+            "telegram": "https://t.me/kotoha_hkll",
+            "github": "https://github.com/weaponmasterjax"
         }
     ],
     "updater": true,
     "beta": false,
     "version": "thirteen",
     "release": "monthly",
-    "device_display_name": "Redmi Note 11",
-    "device_display_codename": "spes/spesn",
+    "device_display_name": "Redmi Note 11T/11 5G/11S 5G/POCO M4 Pro 5G",
+    "device_display_codename": "everpal",
     "public_download": "https://sourceforge.net/projects/sparkosofficial/files/spes/",
-    "last_updated": "25 September 2023",
-    "private_download_tag": "spes_20230923_1408",
+    "last_updated": "5 November 2023",
+    "private_download_tag": "everpal_20230923_1408",
     "active": true,
     "xda": null,
-    "customRecoveryRequired": true
+    "customRecoveryRequired": false
 }
