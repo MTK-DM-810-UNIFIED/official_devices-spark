@@ -179,6 +179,15 @@
             "maintainer_name": "chematelegram",
             "frame": null,
             "active": true
+        },
+                {
+            "codename": "everpal",
+            "codename_alt": "everpal",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 11T/11/11S 5G/POCO M4 Pro 5G",
+            "maintainer_name": "weaponmasterjax",
+            "frame": null,
+            "active": true
         }
     ]
 }
